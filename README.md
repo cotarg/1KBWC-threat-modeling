@@ -1,6 +1,6 @@
 # 1000 Blank White Cards of Threat Modeling
 
-_1000 Blank White Cards of Threat Modeling_ is based on [1000 Blank White Cards](https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards), which was the predecessor of both the popular game [Fluxx](http://www.fluxxgames.com/#fluxx5). _1kBWC_ starts with a pre-defined "system" (our sample system is the Death Star), and then encourages players to Red Team the system by brainstorming and creating "exploits" and Blue Team it by devising patches to those exploits. _1kBWC_ relies on emergent gameplay and player creativity for success...but it also requires a willingness to be comfortable with uncertainty.
+_1000 Blank White Cards of Threat Modeling_ is based on [1000 Blank White Cards](https://boardgamegeek.com/boardgame/4550/1000-blank-white-cards), which was the predecessor of the popular game [Fluxx](http://www.fluxxgames.com/#fluxx5). _1kBWC_ starts with a pre-defined "system" (our sample system is the Death Star), and then encourages players to Red Team the system by brainstorming and creating "exploits" and Blue Team it by devising patches to those exploits. _1kBWC_ relies on emergent gameplay and player creativity for success...but it also requires a willingness to be comfortable with uncertainty.
 
 ## Getting Started
 
