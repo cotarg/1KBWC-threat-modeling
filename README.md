@@ -13,8 +13,8 @@ To play using a sample or previous system, simply grab the rulesheet, the templa
 
 ## Built With
 
-[Bear Writing App](https://bear.app/) -- most text originally drafted in Bear Writer
-[Sublime Text 3](https://www.sublimetext.com/) -- other text drafted in Sublime Text
+* [Bear Writing App](https://bear.app/) -- most text originally drafted in Bear Writer
+* [Sublime Text 3](https://www.sublimetext.com/) -- other text drafted in Sublime Text
 
 ## Contributing
 
