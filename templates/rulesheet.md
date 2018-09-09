@@ -24,31 +24,31 @@ Give each player 6 (six) blank cards and a pen. Take ten minutes for each player
 
 To prepare the cards, look at the system laying on the table and brainstorm 3 (three) vulnerabilities, and 3 (three) security measures that apply to the system. Fill the cards in your hand with these brainstormed aspects. There will almost certainly be duplicate ideas/cards amongst the players and that is OK!
 
-### Gameplay:
+## Gameplay:
 Pick someone to start by whatever method you choose. (We suggest using whoever has the nearest birthday if you’re stumped for a method.) Game play will begin with them and pass around the table to the right.
 
-#### Basic turn order:
+### Basic turn order:
 * Play one card.
 * Do any actions required by the card or cards on the table.
 * Pull one card from the deck in play.
 
 [Note: Cards in play _can_ change the turn order or add steps, though this is considered an “advanced” modification of the game.]
 
-#### Playing one card: 
+### Playing one card: 
 On your turn you will take a card from your hand and lay it on the table.
 
 When you place your card on the table, ask if anyone else holds a matching card. Use your discretion here. If your system is in need of a firewall, and someone posts “open ports” or “no firewall”, accept “open port 22” as a duplicate. If your system is a girl scout troupe, and the card someone plays is “sold out of cookies”, accept “sold out of the mint cookies”. However, if someone plays “sold out of the mint cookies”, then “sold out of caramel cookies” and “sold out of all cookies” would not be duplicates. All matching (duplicate) cards should be played at this time.
 
 Each player who has a duplicate receives a new blank card from the replenishment deck, and they may hold it to prepare when they wish. 
 
-#### Do any actions required by the previously played cards:
+### Do any actions required by the previously played cards:
 Cards played by other players may contain actions, and if they do, you do those actions as part of your turn. See the [examples](https://github.com/cotarg/congenial-carnival/tree/main/examples) for some ideas of what this could look like.
 
-#### Draw one card: 
+### Draw one card: 
 There will also be a deck of cards on the table, and at the end of your turn you take one card from the deck. If the card you draw is blank you may fill it in with either a vulnerability or a security measure at your leisure. You may hang onto it as a blank until you are inspired to fill it in.
 
-### Finishing the Game
-#### There are three ways to end game play:
+## Finishing the Game
+### There are three ways to end game play:
 * **There are no more cards to pull into player hands.**
 If the play deck is emptied, each player gets one final turn, and then the game is over.
 
@@ -58,8 +58,8 @@ Each player is still offered the opportunity to take a final turn if they wish.
 * **The game hits the limit of its timebox.**
 While leaving gameplay open-ended can be helpful, sometimes exercises like this benefit from constraints. One of the most common constraints is to introduce a time limit. If this constraint is used, at the time limit, game play ceases, regardless of if all players have finished the turn they’re on.
 
-#### Post-game debrief:
+### Post-game debrief:
 After game play has finished, a 15 (fifteen) minute debrief period occurs. During this period, note down all the vulnerabilities uncovered and strategies for repair or mitigation. Then ask each player to contribute one thing they learned during game play to the debrief document where you’ve captured this information. If players wish to have a copy of the debrief document, make copies at this time.
 
-#### Retaining cards:
+### Retaining cards:
 Lastly, decide if you want to retain the cards completed during play. If you want to model this system again in the future, it can be helpful to have past cards (especially if you change your system in response to game play). You may also want to keep the cards because something interesting emerged during play, because you want to run the game for others modeling this system and will use the created cards to jumpstart it, or just because you feel like it.
